@@ -1,5 +1,4 @@
 # Data-pipeline-assessment
-# Data Pipeline Assessment
 
 ## Overview
 
